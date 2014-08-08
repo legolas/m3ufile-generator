@@ -1,4 +1,4 @@
-package rename;
+package nl.dulsoft.mp3.playlist.generator;
 
 import java.io.File;
 import java.io.IOException;
